@@ -40,7 +40,7 @@ const data = {
   ],
   educationalExperiences:[
     {
-      emoji: "💙❤️"
+      emoji: "💙❤️",
       university: "University of Pennsylvania",
       school: "College of Liberal and Professional Studies ",
       dates: "2019 - 2020",
@@ -50,7 +50,7 @@ const data = {
       ],
     },
     {
-      emoji: "🦁"
+      emoji: "🦁",
       university: "Columbia University",
       school: "School of Professional Studies",
       dates: "2018 - 2019",
@@ -60,7 +60,7 @@ const data = {
       ],
     },
     {
-      emoji: "💙❤️"
+      emoji: "💙❤️",
       university: "University of Pennsylvania",
       school: "Annenberg School of Communication",
       dates: "2018 - 2019",
