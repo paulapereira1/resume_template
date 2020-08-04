@@ -49,7 +49,7 @@ function renderSkills(skill) {
 
 const fetchData = async () => {
   const response = await fetch(
-    'https://andyweiss1982.github.io/resume_template/data.json'
+    'https://github.com/paulapereira1/resume_template/data.json'
   );
   const data = await response.json();
   
