@@ -1,0 +1,121 @@
+{
+  "name": "Paula Pereira",
+  "mainEmoji": {
+    "character": "🐥",
+    "ariaLabel": "chick"
+  },
+  "phoneNumber": "000.000.0000",
+  "email": "ppereira1@rbi.com",
+  "githubHandle": "andyweiss1982",
+  "linkedInHandle": "paulanfpereira",
+  "headingEmojis": {
+    "workExperience": {
+      "character": "‍👩🏽‍💻",
+      "ariaLabel": "computer-woman"
+    },
+    "educationExperience": {
+      "character": "👩🏽‍🎓",
+      "ariaLabel": "graduate-woman"
+    },
+    "skills": {
+      "character": "⚙️",
+      "ariaLabel": "tool"
+    }
+  },
+  "workExperiences": [
+    {
+      "emoji": "🔍",
+      "ariaLabel": "magnifier",
+      "jobTitle": "Organizational Behavior Research Assistant",
+      "institution": "The Wharton School Management Department",
+      "dates": "2019 - 2020",
+      "details": [
+        "Administered a two-week field experiment with 600+ participants using Qualtrics surveys in order to gather insights about the effects if daily commute habits and mindset on engagement at work",
+        "Analyzed qualitative results using a custom code, as well as self-taught and applied Latent Dirichlet Allocation to contribute to research findings"
+      ]
+    },
+    {
+      "emoji": "☕️",
+      "ariaLabel": "coffee",
+      "jobTitle": "Manager, Insights and Category Development",
+      "institution": "Restaurant Brands International",
+      "dates": "2020 - present"
+    },
+    {
+      "emoji": "🍸",
+      "ariaLabel": "martini",
+      "jobTitle": "Head of Marketing",
+      "institution": "Cãna Brazilian Cachaça",
+      "dates": "2019 - 2020",
+      "details": [
+        "Developed and exercuted a go-to-market plan to launch a premium Brazilian cachaca brand to meet the demand for craft and premiumization of the psirits in the US market",
+        "Managed marketing tactics such as the delivery of relevant video communication through social media channels, scaling a promotional events model and building key brand partnerships, which contributed to product placement in 10+ on and off premise NY locations in four months since launch",
+        "Lead sprint e-commerce development and digital ads through Facebook and Google"
+      ]
+    },
+    {
+      "emoji": "🏈",
+      "ariaLabel": "football",
+      "jobTitle": "Manager of Athlete & Brand Strategy",
+      "institution": "Talent Resources Sports",
+      "dates": "2015 - 2018",
+      "details": [
+        "Oversaw the sports division team, as well as directed project operations management including but not limited to pitch development, partnership and sponsorship outreach, vendor negotiations, budget and P&L management",
+        "Produced experiential events at Super Bowl and NBA All-Star 2018 for top consumer brands like Mercedes-Benz and Under Armour",
+        "Implemented the Sports divisions first CRM system by leading procurement and compiling a database of over 15,000+ clients using Copper"
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "jobTitle": "Software Developer",
+      "ariaLabel": "handshake",
+      "institution": "Consultant",
+      "dates": "2014 - present",
+      "details": [
+        "Design and develop web and native applications for existing businesses and startups",
+        "Work with clients to test and revise assumptions throughout application development"
+      ]
+    }
+  ],
+  "educationalExperiences": [
+    {
+      "emoji": "📓",
+      "ariaLabel": "notebook",
+      "university": "University of Pennsylvania",
+      "school": "The College of Liberal and Professional Studies",
+      "dates": "2019 - 2020",
+      "details": ["Master of Behavioral and Decision Sciences"]
+    },
+    {
+      "emoji": "🦁",
+      "ariaLabel": "lion",
+      "university": "Columbia University",
+      "school": "School of Professional Studies",
+      "dates": "2018 - 2019",
+      "details": ["Advanced Graduate Certificate in Business"]
+    },
+    {
+      "emoji": "💙",
+      "ariaLabel": "blue-heart",
+      "university": "University of Pennsylvania",
+      "school": "School of Arts and Sciences",
+      "dates": "2013 - 2017",
+      "details": [
+        "Major: Communications, Annenberg School, Minor: Consumer Psychology, Wharton"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "emoji": "⚙️",
+      "ariaLabel": "tool",
+      "dates": "1994 - present",
+      "skillone": "Languages",
+      "skilltwo": "Frameworks",
+      "details": [
+        "R, HTML, CSS, JavaScript",
+        "Native Portugues, Fluent English, Intermediate French and Spanish"
+      ]
+    }
+  ]
+}
